@@ -8,8 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaserver" />
+        <module name="users9999" />
         <module name="hellospringcloud" />
         <module name="consulclient8889" />
+        <module name="product9998" />
         <module name="eurekaClient8888" />
       </profile>
     </annotationProcessing>
@@ -19,6 +21,8 @@
       <module name="eurekaserver" target="1.8" />
       <module name="eurekaserver8761" target="11" />
       <module name="hellospringcloud" target="11" />
+      <module name="product9998" target="1.8" />
+      <module name="users9999" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -28,6 +32,8 @@
       <module name="eurekaserver" options="-parameters" />
       <module name="eurekaserver8761" options="-parameters" />
       <module name="hellospringcloud" options="-parameters" />
+      <module name="product9998" options="-parameters" />
+      <module name="users9999" options="-parameters" />
     </option>
   </component>
 </project>

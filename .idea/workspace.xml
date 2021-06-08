@@ -4,11 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ea7c0c2-8160-4802-b09a-d6e582a82492" name="Default Changelist" comment="" />
+    <list default="true" id="7ea7c0c2-8160-4802-b09a-d6e582a82492" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product9998/product9998.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product9998/src/main/java/com/example/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users9999/users9999.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consulclient8889/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/consulclient8889/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -31,6 +53,7 @@
     <option name="delegateBuildToMaven" value="true" />
   </component>
   <component name="ProjectId" id="1sU0mAdkXyQWarsZmzywuzmGeQB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,6 +65,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -49,7 +73,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.11933172" />
     <property name="project.structure.side.proportion" value="0.1356852" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -61,7 +85,18 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Consulclient8889Application">
+  <component name="RunManager" selected="Spring Boot.Product9998Application">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Consulclient8889Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="consulclient8889" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.inwhite.Consulclient8889Application" />
@@ -90,6 +125,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Product9998Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product9998" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Product9998Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Users9999Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="users9999" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.inwhite.Users9999Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -111,12 +160,29 @@
       <workItem from="1622548859236" duration="6911000" />
       <workItem from="1622556729166" duration="160000" />
       <workItem from="1622556901073" duration="5745000" />
-      <workItem from="1622570372967" duration="1819000" />
+      <workItem from="1622570372967" duration="2053000" />
+      <workItem from="1622643401842" duration="624000" />
+      <workItem from="1622723662729" duration="2074000" />
+      <workItem from="1622862417890" duration="2997000" />
+      <workItem from="1622946724474" duration="1052000" />
+      <workItem from="1623159105344" duration="5981000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
